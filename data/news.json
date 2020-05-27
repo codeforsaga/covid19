@@ -1,9 +1,44 @@
 {
     "newsItems": [
-       {
-            "date": "2020\/05\/25",
+        {
+            "date": "2020\/05\/27",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年5月25日18時現在）"
+            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年5月27日18時現在）"
+        },
+        {
+            "date": "2020\/05\/27",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374225\/index.html",
+            "text": "佐賀型チャレンジ事業者持続化支援金について"
+        },
+        {
+            "date": "2020\/05\/27",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373208\/index.html",
+            "text": "新型コロナウイルス感染症に関する相談窓口・感染防止対策"
+        },
+        {
+            "date": "2020\/05\/27",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373303\/index.html",
+            "text": "新型コロナウイルス感染症資金繰り対策資金（経営改善資金）のご案内"
+        },
+        {
+            "date": "2020\/05\/27",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373957\/index.html",
+            "text": "新型コロナウイルス感染症に関する事業者支援等一覧を掲載しています"
+        },
+        {
+            "date": "2020\/05\/27",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374697\/index.html",
+            "text": "佐賀県新業態スタート支援事業補助金について"
+        },
+        {
+            "date": "2020\/05\/27",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374652\/index.html",
+            "text": "第26回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
+        },
+        {
+            "date": "2020\/05\/26",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373490\/index.html",
+            "text": "新型コロナウィルス感染症に関連する人権の配慮について"
         },
        {
             "date": "2020\/05\/25",
@@ -19,16 +54,6 @@
             "date": "2020\/05\/23",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
             "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年5月23日18時現在）"
-        },
-        {
-            "date": "2020\/05\/22",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373490\/index.html",
-            "text": "新型コロナウィルス感染症に関連する人権の配慮について"
-        },
-        {
-            "date": "2020\/05\/22",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373208\/index.html",
-            "text": "新型コロナウイルス感染症に関する相談窓口・感染防止対策"
         },
         {
             "date": "2020\/05\/22",
@@ -67,11 +92,6 @@
         },
         {
             "date": "2020\/05\/18",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373490\/index.html",
-            "text": "新型コロナウィルス感染症に関連する人権の配慮について"
-        },
-        {
-            "date": "2020\/05\/18",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373208\/index.html",
             "text": "新型コロナウイルス感染症に関する相談窓口・基本情報"
         },
@@ -84,11 +104,6 @@
             "date": "2020\/05\/16",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374370\/index.html",
             "text": "新型コロナウィルス感染症に関する記者レクを開催しました（5月16日）"
-        },
-        {
-            "date": "2020\/05\/15",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374225\/index.html",
-            "text": "佐賀型チャレンジ事業者持続化支援金について"
         },
         {
             "date": "2020\/05\/15",
@@ -276,11 +291,6 @@
             "text": "第18回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
         },
         {
-            "date": "2020\/04\/27",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373208\/index.html",
-            "text": "新型コロナウイルス感染症に関する相談窓口・基本情報"
-        },
-        {
             "date": "2020\/04\/26",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374143\/index.html",
             "text": "新型コロナウィルス感染症に関する記者レクを開催しました（4月26日）"
@@ -374,11 +384,6 @@
             "date": "2020\/04\/20",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373608\/index.html",
             "text": "利子補給制度のご案内（新型コロナウイルス感染症資金繰り対策資金（経営改善資金））"
-        },
-        {
-            "date": "2020\/04\/20",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373303\/index.html",
-            "text": "新型コロナウイルス感染症の影響を受ける中小企業の方々への金融支援について"
         },
         {
             "date": "2020\/04\/20",
