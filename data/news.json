@@ -1,9 +1,19 @@
 {
     "newsItems": [
         {
-            "date": "2020\/05\/30",
+            "date": "2020\/06\/01",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年5月30日18時00分現在）"
+            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年6月1日18時00分現在）"
+        },
+        {
+            "date": "2020\/06\/01",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374928\/3_74928_shiryou1_w5ypzdqn.pdf",
+            "text": "【6月1日更新】県民の皆様へ（PDF：243.9キロバイト）"
+        },
+        {
+            "date": "2020\/06\/01",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374919\/index.html",
+            "text": "第27回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
         },
         {
             "date": "2020\/05\/29",
