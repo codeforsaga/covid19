@@ -1,9 +1,19 @@
 {
     "newsItems": [
         {
-            "date": "2020\/06\/08",
+            "date": "2020\/06\/09",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年6月8日18時00分現在）"
+            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年6月9日18時00分現在）"
+        },
+        {
+            "date": "2020\/06\/09",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00334466\/index.html",
+            "text": "小児慢性特定疾病医療費助成制度"
+        },
+        {
+            "date": "2020\/06\/09",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374652\/index.html",
+            "text": "第26回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
         },
         {
             "date": "2020\/06\/08",
@@ -25,7 +35,6 @@
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374697\/index.html",
             "text": "佐賀県新業態スタート支援事業補助金について"
         },
-        
         {
             "date": "2020\/06\/05",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374081\/index.html",
@@ -132,11 +141,6 @@
             "text": "新型コロナウイルス感染症資金繰り対策資金（経営改善資金）のご案内"
         },
         {
-            "date": "2020\/05\/27",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374652\/index.html",
-            "text": "第26回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
-        },
-        {
             "date": "2020\/05\/26",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373490\/index.html",
             "text": "新型コロナウィルス感染症に関連する人権の配慮について"
@@ -210,11 +214,6 @@
             "date": "2020\/05\/14",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374338\/index.html",
             "text": "新型コロナウィルス感染症に関する記者レクを開催しました（5月13日）"
-        },
-        {
-            "date": "2020\/05\/14",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374233\/index.html",
-            "text": "【令和2年5月12日更新】『佐賀型 店舗休業支援金』（5月7日始期：接待を伴う飲食店等）について"
         },
         {
             "date": "2020\/05\/12",
@@ -575,11 +574,6 @@
             "date": "2020\/04\/01",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373782\/index.html",
             "text": "第7回佐賀県新型コロナウイルス感染症対策本部会議を開催しました"
-        },
-        {
-            "date": "2020\/03\/31",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373466\/index.html",
-            "text": "小児慢性特定疾病医療費助成制度"
         },
         {
             "date": "2020\/03\/31",
