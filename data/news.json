@@ -1,9 +1,29 @@
 {
     "newsItems": [
         {
-            "date": "2020\/06\/15",
+            "date": "2020\/06\/17",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年6月15日18時00分現在）"
+            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年6月17日18時00分現在）"
+        },
+        {
+            "date": "2020\/06\/17",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00375207\/index.html",
+            "text": "感染拡大予防ガイドライン等の実践をお願いします"
+        },
+        {
+            "date": "2020\/06\/16",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374697\/index.html",
+            "text": "佐賀県新業態スタート支援事業補助金について"
+        },
+        {
+            "date": "2020\/06\/16",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373957\/index.html",
+            "text": "新型コロナウイルス感染症に関する事業者支援等一覧を掲載しています"
+        },
+        {
+            "date": "2020\/06\/16",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373974\/index.html",
+            "text": "【事業主向け】雇用調整助成金について"
         },
         {
             "date": "2020\/06\/12",
@@ -16,11 +36,6 @@
             "text": "新型コロナウイルス感染症に関するこころのケアについて"
         },
         {
-            "date": "2020\/06\/12",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373957\/index.html",
-            "text": "新型コロナウイルス感染症に関する事業者支援等一覧を掲載しています"
-        },
-        {
             "date": "2020\/06\/11",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373855\/index.html",
             "text": "【新型コロナウイルス関連】産業廃棄物に関する申請等の取扱について"
@@ -29,11 +44,6 @@
             "date": "2020\/06\/10",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00375012\/index.html",
             "text": "『観光施設事業者の支援』のご案内"
-        },
-        {
-            "date": "2020\/06\/10",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374697\/index.html",
-            "text": "佐賀県新業態スタート支援事業補助金について"
         },
         {
             "date": "2020\/06\/09",
