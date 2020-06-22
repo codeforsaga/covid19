@@ -1,24 +1,64 @@
 {
     "newsItems": [
         {
-            "date": "2020\/06\/17",
+            "date": "2020\/06\/22",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374697\/index.html",
+            "text": "佐賀県新業態スタート支援事業補助金について"
+        },
+        {
+            "date": "2020\/06\/22",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373804\/index.html",
+            "text": "新型コロナウィルス感染症の影響による休業や失業等により生活資金でお悩みの方々に向けた生活福祉資金の特例貸付について"
+        },
+        {
+            "date": "2020\/06\/21",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年6月17日18時00分現在）"
+            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年6月21日18時00分現在）"
+        },
+        {
+            "date": "2020\/06\/19",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00375249\/index.html",
+            "text": "新型コロナウイルス感染症の拡大防止のため「新型コロナウイルス接触確認アプリ（COCOA）」を利用しましょう"
+        },
+        {
+            "date": "2020\/06\/19",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00375218\/index.html",
+            "text": "第29回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
+        },
+        {
+            "date": "2020\/06\/19",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373957\/index.html",
+            "text": "新型コロナウイルス感染症に関する事業者支援等一覧を掲載しています"
+        },
+        {
+            "date": "2020\/06\/19",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374876\/index.html",
+            "text": "【6月19日更新】県民の皆さまへのお願い"
+        },
+        {
+            "date": "2020\/06\/18",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374928\/3_74928_shiryou1_lmzxs7zx.pdf",
+            "text": "<img alt=\"PDF\" src=\"dynamic\/common\/images\/icon\/pdf.gif\" title=\"\"\/>"
+        },
+        {
+            "date": "2020\/06\/18",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00334466\/index.html",
+            "text": "小児慢性特定疾病医療費助成制度"
+        },
+        {
+            "date": "2020\/06\/18",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373362\/index.html",
+            "text": "佐賀県のテレワークに関する情報案内"
+        },
+        {
+            "date": "2020\/06\/18",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373318\/index.html",
+            "text": "新型コロナウイルス感染症の発生により影響を受けた農林漁業者向けの制度資金のご案内"
         },
         {
             "date": "2020\/06\/17",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00375207\/index.html",
             "text": "感染拡大予防ガイドライン等の実践をお願いします"
-        },
-        {
-            "date": "2020\/06\/16",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374697\/index.html",
-            "text": "佐賀県新業態スタート支援事業補助金について"
-        },
-        {
-            "date": "2020\/06\/16",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373957\/index.html",
-            "text": "新型コロナウイルス感染症に関する事業者支援等一覧を掲載しています"
         },
         {
             "date": "2020\/06\/16",
@@ -47,11 +87,6 @@
         },
         {
             "date": "2020\/06\/09",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00334466\/index.html",
-            "text": "小児慢性特定疾病医療費助成制度"
-        },
-        {
-            "date": "2020\/06\/09",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374652\/index.html",
             "text": "第26回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
         },
@@ -59,11 +94,6 @@
             "date": "2020\/06\/08",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374233\/index.html",
             "text": "【受付期間終了】『佐賀型 店舗休業支援金』（5月7日始期：接待を伴う飲食店等）について"
-        },
-        {
-            "date": "2020\/06\/08",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374876\/index.html",
-            "text": "【6月8日更新】県民の皆さまへのお願い"
         },
         {
             "date": "2020\/06\/05",
@@ -74,11 +104,6 @@
             "date": "2020\/06\/05",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373303\/index.html",
             "text": "新型コロナウイルス感染症資金繰り対策資金（経営改善資金）のご案内"
-        },
-        {
-            "date": "2020\/06\/05",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374928/3_74928_shiryou1_y6op4ch1.pdf",
-            "text": "【6月5日更新】県民の皆様へ（PDF：254キロバイト）"
         },
         {
             "date": "2020\/06\/05",
@@ -102,28 +127,13 @@
         },
         {
             "date": "2020\/06\/01",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374928\/3_74928_shiryou1_w5ypzdqn.pdf",
-            "text": "【6月1日更新】県民の皆様へ（PDF：243.9キロバイト）"
-        },
-        {
-            "date": "2020\/06\/01",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374919\/index.html",
             "text": "第27回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
         },
         {
             "date": "2020\/05\/29",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374876\/index.html",
-            "text": "【6月1日からのお願い】県民の皆さまへのお願い"
-        },
-        {
-            "date": "2020\/05\/29",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374366\/index.html",
             "text": "【5月31日までのお願い】県民の皆さまへのお願い"
-        },
-        {
-            "date": "2020\/05\/28",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373804\/index.html",
-            "text": "新型コロナウィルス感染症の影響による休業や失業等により生活資金でお悩みの方々に向けた生活福祉資金の特例貸付について"
         },
         {
             "date": "2020\/05\/27",
@@ -174,11 +184,6 @@
             "date": "2020\/05\/19",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374434\/index.html",
             "text": "5月県議会で新型コロナウィルス感染症対策と補正予算案について知事が発言しました"
-        },
-        {
-            "date": "2020\/05\/18",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373318\/index.html",
-            "text": "新型コロナウイルス感染症の発生により影響を受けた農林漁業者向けの制度資金のご案内"
         },
         {
             "date": "2020\/05\/16",
@@ -244,11 +249,6 @@
             "date": "2020\/05\/06",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374074\/index.html",
             "text": "プロジェクトM（新型コロナに対応した医療提供体制の強化）"
-        },
-        {
-            "date": "2020\/05\/05",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373362\/index.html",
-            "text": "テレワークに関する相談窓口"
         },
         {
             "date": "2020\/05\/05",
