@@ -1,22 +1,49 @@
 {
     "newsItems": [
-
-2020年6月22日更新
-
-佐賀県の新型コロナウイルス感染症の状況（令和2年6月22日18時00分現在）
-2020年6月22日更新
-
-新型コロナウイルス感染症に関する事業者支援等一覧を掲載しています
-
         {
-            "date": "2020\/06\/22",
-            "url": "https://www.pref.saga.lg.jp/kiji00373220/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年6月22日18時00分現在）"
+            "date": "2020\/06\/27",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
+            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年6月27日18時00分現在）"
         },
         {
-            "date": "2020\/06\/22",
-            "url": "https://www.pref.saga.lg.jp/kiji00373957/index.html",
+            "date": "2020\/06\/27",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00375336\/index.html",
+            "text": "第30回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
+        },
+        {
+            "date": "2020\/06\/26",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373208\/index.html",
+            "text": "新型コロナウイルス感染症に関する相談窓口・感染防止対策"
+        },
+        {
+            "date": "2020\/06\/26",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373490\/index.html",
+            "text": "新型コロナウィルス感染症に関連する人権の配慮について"
+        },
+        {
+            "date": "2020\/06\/26",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374876\/index.html",
+            "text": "【6月26日更新】県民の皆さまへのお願い"
+        },
+        {
+            "date": "2020\/06\/26",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373957\/index.html",
             "text": "新型コロナウイルス感染症に関する事業者支援等一覧を掲載しています"
+        },
+        {
+            "date": "2020\/06\/26",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374928\/3_74928_shiryou1_glc558bn.pdf",
+            "text": "【6月26日更新】県民の皆様へ"
+        },
+        {
+            "date": "2020\/06\/26",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00375338\/index.html",
+            "text": "【6月26日更新】佐賀県「地域のお祭り」開催のポイント（案）"
+        },
+        {
+            "date": "2020\/06\/26",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374096\/index.html",
+            "text": "プロジェクトE（Education）～オンライン教育への挑戦～　スタート！"
         },
         {
             "date": "2020\/06\/22",
@@ -29,11 +56,6 @@
             "text": "新型コロナウィルス感染症の影響による休業や失業等により生活資金でお悩みの方々に向けた生活福祉資金の特例貸付について"
         },
         {
-            "date": "2020\/06\/21",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年6月21日18時00分現在）"
-        },
-        {
             "date": "2020\/06\/19",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00375249\/index.html",
             "text": "新型コロナウイルス感染症の拡大防止のため「新型コロナウイルス接触確認アプリ（COCOA）」を利用しましょう"
@@ -42,21 +64,6 @@
             "date": "2020\/06\/19",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00375218\/index.html",
             "text": "第29回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
-        },
-        {
-            "date": "2020\/06\/19",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373957\/index.html",
-            "text": "新型コロナウイルス感染症に関する事業者支援等一覧を掲載しています"
-        },
-        {
-            "date": "2020\/06\/19",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374876\/index.html",
-            "text": "【6月19日更新】県民の皆さまへのお願い"
-        },
-        {
-            "date": "2020\/06\/18",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374928\/3_74928_shiryou1_lmzxs7zx.pdf",
-            "text": "<img alt=\"PDF\" src=\"dynamic\/common\/images\/icon\/pdf.gif\" title=\"\"\/>"
         },
         {
             "date": "2020\/06\/18",
@@ -82,11 +89,6 @@
             "date": "2020\/06\/16",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373974\/index.html",
             "text": "【事業主向け】雇用調整助成金について"
-        },
-        {
-            "date": "2020\/06\/12",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373208\/index.html",
-            "text": "新型コロナウイルス感染症に関する相談窓口・感染防止対策"
         },
         {
             "date": "2020\/06\/12",
@@ -162,11 +164,6 @@
             "date": "2020\/05\/27",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373303\/index.html",
             "text": "新型コロナウイルス感染症資金繰り対策資金（経営改善資金）のご案内"
-        },
-        {
-            "date": "2020\/05\/26",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373490\/index.html",
-            "text": "新型コロナウィルス感染症に関連する人権の配慮について"
         },
        {
             "date": "2020\/05\/25",
@@ -402,11 +399,6 @@
             "date": "2020\/04\/23",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373976\/index.html",
             "text": "新型コロナウイルスの影響により納税が困難な方へ【徴収猶予の「特例制度」（案）のご案内】"
-        },
-        {
-            "date": "2020\/04\/22",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374096\/index.html",
-            "text": "プロジェクトE（Education）～オンライン教育への挑戦～　スタート！"
         },
         {
             "date": "2020\/04\/22",
