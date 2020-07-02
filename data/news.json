@@ -1,5 +1,55 @@
 {
     "newsItems": [
+          {
+            "date": "2020\/07\/01",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
+            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年6月30日18時00分現在）"
+        },
+          {
+            "date": "2020\/07\/01",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374276\/index.html",
+            "text": "指定行事の中止等により生じた入場料金等払戻請求権を放棄した場合の寄附金税額控除の特例について"
+        },
+         {
+            "date": "2020\/07\/01",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373208\/index.html",
+            "text": "新型コロナウイルス感染症に関する相談窓口・感染防止対策"
+        },
+         {
+            "date": "2020\/07\/01",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374268\/index.html",
+            "text": "【受付期間終了】『佐賀型　貸切バス・タクシー支援金』のご案内"
+        },
+         {
+            "date": "2020\/07\/01",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374203\/index.html",
+            "text": "【受付期間終了】『佐賀型　宿泊施設支援金』のご案内"
+        },
+         {
+            "date": "2020\/07\/01",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00375012\/index.html",
+            "text": "【令和2年7月1日更新】『観光施設事業者の支援』のご案内"
+        },
+         {
+            "date": "2020\/07\/01",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373976\/index.html",
+            "text": "新型コロナウイルスの影響により納税が困難な方へ【徴収猶予の「特例制度」のご案内】"
+        },
+        {
+            "date": "2020\/06\/30",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374607\/index.html",
+            "text": "佐賀県新業態スタート支援事業補助金について"
+        },
+        {
+            "date": "2020\/06\/29",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00375338\/index.html",
+            "text": "【6月26日更新】佐賀県「地域のお祭り」開催のポイント（案）"
+        },
+        {
+            "date": "2020\/06\/28",
+            "url": "https:\/\/www.pref.saga.lg.jp/kiji00374928/3_74928_shiryou1_j2d354cc.pdf",
+            "text": "【6月28日更新】県民の皆様へ"
+        },
         {
             "date": "2020\/06\/27",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
