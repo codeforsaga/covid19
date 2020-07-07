@@ -1,9 +1,24 @@
 {
     "newsItems": [
         {
-            "date": "2020\/07\/02",
+            "date": "2020\/07\/07",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374623\/index.html",
+            "text": "雇用調整助成金等支援員を配置します"
+        },
+        {
+            "date": "2020\/07\/07",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00375338\/index.html",
+            "text": "【7月7日更新】佐賀県「地域のお祭り」開催のポイント"
+        },
+        {
+            "date": "2020\/07\/06",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年7月2日18時00分現在）"
+            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年7月6日18時00分現在）"
+        },
+        {
+            "date": "2020\/07\/06",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00334466\/index.html",
+            "text": "小児慢性特定疾病医療費助成制度"
         },
         {
             "date": "2020\/07\/01",
@@ -39,11 +54,6 @@
             "date": "2020\/06\/30",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374697\/index.html",
             "text": "佐賀県新業態スタート支援事業補助金について"
-        },
-        {
-            "date": "2020\/06\/29",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00375338\/index.html",
-            "text": "【6月26日更新】佐賀県「地域のお祭り」開催のポイント（案）"
         },
         {
             "date": "2020\/06\/28",
@@ -90,11 +100,6 @@
             "date": "2020\/06\/19",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00375218\/index.html",
             "text": "第29回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
-        },
-        {
-            "date": "2020\/06\/18",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00334466\/index.html",
-            "text": "小児慢性特定疾病医療費助成制度"
         },
         {
             "date": "2020\/06\/18",
