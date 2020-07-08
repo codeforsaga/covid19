@@ -2,6 +2,21 @@
     "newsItems": [
         {
             "date": "2020\/07\/07",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
+            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年7月7日18時00分現在）"
+        },
+        {
+            "date": "2020\/07\/07",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00375547\/index.html",
+            "text": "「新たなまちづくりチャレンジ支援事業」企画提案を募集します"
+        },
+        {
+            "date": "2020\/07\/07",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373957\/index.html",
+            "text": "新型コロナウイルス感染症に関する事業者支援等一覧を掲載しています"
+        },
+        {
+            "date": "2020\/07\/07",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374623\/index.html",
             "text": "雇用調整助成金等支援員を配置します"
         },
@@ -9,11 +24,6 @@
             "date": "2020\/07\/07",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00375338\/index.html",
             "text": "【7月7日更新】佐賀県「地域のお祭り」開催のポイント"
-        },
-        {
-            "date": "2020\/07\/06",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年7月6日18時00分現在）"
         },
         {
             "date": "2020\/07\/06",
@@ -70,11 +80,6 @@
             "date": "2020\/06\/26",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374876\/index.html",
             "text": "【6月26日更新】県民の皆さまへのお願い"
-        },
-        {
-            "date": "2020\/06\/26",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373957\/index.html",
-            "text": "新型コロナウイルス感染症に関する事業者支援等一覧を掲載しています"
         },
         {
             "date": "2020\/06\/26",
