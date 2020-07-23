@@ -1,9 +1,29 @@
 {
     "newsItems": [
         {
-            "date": "2020\/07\/21",
+            "date": "2020\/07\/23",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374338/index.html",
+            "text": "新型コロナウィルス感染症に関する記者レクを開催しました（5月13日）"
+        },
+        {
+            "date": "2020\/07\/23",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年7月21日16時00分現在）"
+            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年7月23日10時00分現在）"
+        },
+        {
+            "date": "2020\/07\/22",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00376090/3_76090_shiryou1_ovkuv1kw.pdf",
+            "text": "知事メッセージ（4連休前）"
+        },
+        {
+            "date": "2020\/07\/22",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374081/index.html",
+            "text": "マスク、寄附金等を寄贈いただきました！"
+        },
+        {
+            "date": "2020\/07\/22",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00376091/index.html",
+            "text": "新型コロナウィルス感染症に関する記者レクを開催しました（7月22日）"
         },
         {
             "date": "2020\/07\/21",
