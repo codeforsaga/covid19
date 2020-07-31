@@ -1,39 +1,59 @@
 {
     "newsItems": [
         {
-            "date": "2020\/07\/30",
+            "date": "2020\/07\/31",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374697\/index.html",
+            "text": "佐賀県新業態スタート支援事業補助金について"
+        },
+        {
+            "date": "2020\/07\/31",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年7月30日18時45分現在）"
+            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年7月31日19時00分現在）"
+        },
+        {
+            "date": "2020\/07\/31",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00376252\/index.html",
+            "text": "新型コロナウィルス感染症に関して記者へ資料提供（投げ込み）を行いました（7月31日）"
+        },
+        {
+            "date": "2020\/07\/31",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374225\/index.html",
+            "text": "佐賀型チャレンジ事業者持続化支援金について"
+        },
+        {
+            "date": "2020\/07\/31",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00376253\/index.html",
+            "text": "第33回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
+        },
+        {
+            "date": "2020\/07\/31",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00376255\/index.html",
+            "text": "新型コロナウィルス感染症に関する記者レクを開催しました（7月31日）"
         },
         {
             "date": "2020\/07\/30",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00376229/3_76229_shiryou1_daggl1hm.pdf",
-            "text": "記者レク（新規感染）"
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00376225\/index.html",
+            "text": "新型コロナウィルス感染症に関して記者へ資料提供（投げ込み）を行いました（7月30日）"
         },
         {
             "date": "2020\/07\/29",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374928/3_74928_shiryou1_23qau5aa.pdf",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374928\/3_74928_shiryou1_23qau5aa.pdf",
             "text": "【7月29日更新】県民の皆様へ"
         },
         {
             "date": "2020\/07\/29",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374225/index.html",
-            "text": "佐賀型チャレンジ事業者持続化支援金について"
-        },
-        {
-            "date": "2020\/07\/29",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374876/index.html",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374876\/index.html",
             "text": "【7月29日更新】県民の皆さまへのお願い"
         },
         {
             "date": "2020\/07\/29",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00376199/index.html",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00376199\/index.html",
             "text": "新型コロナウィルス感染症に関する記者レクを開催しました（7月29日）"
         },
         {
             "date": "2020\/07\/28",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373362/index.html",
-            "text": "佐賀県のテレワークに関する情報案内(テレワークに関する相談窓口をまとめていますので、適宜ご活用ください。)"
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373362\/index.html",
+            "text": "佐賀県のテレワークに関する情報案内"
         },
         {
             "date": "2020\/07\/28",
