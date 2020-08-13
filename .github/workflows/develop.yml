@@ -44,4 +44,8 @@ jobs:
         EC2_USER: ${{ secrets.EC2_USER }}
         EC2_HOST: ${{ secrets.EC2_HOST }}
         run:
+          # 秘密鍵にファイル名secret_keyをつける
+          echo "$SECRET_KEY" > secret_key
+          # パーミッションの変更
+          chmod 600 secret_key
           ssh -oStrictHostKeyChecking=no ${EC2_USER}@${EC2_HOST} -i secret_key "cd /var/sites/covid19/covid19_devpage && sudo sh git_update.sh"
