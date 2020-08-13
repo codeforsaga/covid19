@@ -48,7 +48,7 @@ jobs:
           echo "$SECRET_KEY" > secret_key
           # パーミッションの変更
           chmod 600 secret_key
-          # サーバーでシェルを実行する
+          # サーバーでシェルを実行
           ssh -oStrictHostKeyChecking=no ${EC2_USER}@${EC2_HOST} -i secret_key "cd /var/sites/covid19/covid19_devpage && sudo sh git_update.sh"
-          # 作成した秘密鍵ファイルを削除する
+          # 作成した秘密鍵ファイルを削除
           rm -f secret_key
