@@ -41,9 +41,8 @@ jobs:
           SECRET_KEY: ${{ secrets.SECRET_KEY }}
           EC2_USER: ${{ secrets.EC2_USER }}
           EC2_HOST: ${{ secrets.EC2_HOST }}
-        run:
-          SECFILE=secret_key-$$
-          echo ${SECRET_KEY} > $SECFILE
-          chmod 600 $SECFILE 
-          ssh -oStrictHostKeyChecking=no ${EC2_USER}@${EC2_HOST} -i $SECFILE "cd /var/sites/covid19/covid19_devpage && sudo sh git_update.sh"
-          rm -f $SECFILE
+        run: SECFILE=secret_key-$$
+        run: echo ${SECRET_KEY} > $SECFILE
+        run: chmod 600 $SECFILE 
+        run: ssh -oStrictHostKeyChecking=no ${EC2_USER}@${EC2_HOST} -i $SECFILE "cd /var/sites/covid19/covid19_devpage && sudo sh git_update.sh"
+        run: rm -f $SECFILE
