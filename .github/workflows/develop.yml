@@ -44,5 +44,7 @@ jobs:
         run: |
           echo ${SECRET_KEY} > secret_key-$$
           chmod 600 secret_key-$$
+          ls -l secret_key-$$
           ssh -oStrictHostKeyChecking=no ${EC2_USER}@${EC2_HOST} -i secret_key-$$ "cd /var/sites/covid19/covid19_devpage && sudo sh git_update.sh"
           rm -f secret_key-$$
+          ls -l secret_key-$$
