@@ -38,14 +38,11 @@ jobs:
 
       - name: Amazon EC2 deploy
         env:
-          SECRET_KEY_BODY: ${{ secrets.SKEYBODY }}
+          SECRET_KEY: ${{ secrets.SECRET_KEY }}
           EC2_USER: ${{ secrets.EC2_USER }}
           EC2_HOST: ${{ secrets.EC2_HOST }}
         run: |
-          touch secret_key-$$
-          chmod 600 secret_key-$$
-          echo "-----BEGIN RSA PRIVATE KEY-----" >> secret_key-$$
-          echo "$SECRET_KEY_BODY" >> secret_key-$$
-          echo "-----END RSA PRIVATE KEY-----" >> secret_key-$$
+          touch secret_key-$$ && chmod 600 secret_key-$$
+          echo "$SECRET_KEY" >> secret_key-$$
           ssh -oStrictHostKeyChecking=no ${EC2_USER}@${EC2_HOST} -i secret_key-$$ "cd /var/sites/covid19/covid19_devpage && sudo sh git_update.sh"
           rm -f secret_key-$$
