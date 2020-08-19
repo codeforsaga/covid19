@@ -1,9 +1,29 @@
 {
     "newsItems": [
-         {
-            "date": "2020\/08\/18",
+        {
+            "date": "2020\/08\/19",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年8月18日18時現在）"
+            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年8月19日18時現在）"
+        },
+        {
+            "date": "2020\/08\/19",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373208\/index.html",
+            "text": "新型コロナウイルス感染症に関する相談窓口・感染防止対策"
+        },
+        {
+            "date": "2020\/08\/19",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00376459\/index.html",
+            "text": "新型コロナウィルス感染症に関する記者レクを開催しました（8月19日）"
+        },
+        {
+            "date": "2020\/08\/18",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00376447\/index.html",
+            "text": "第37回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
+        },
+        {
+            "date": "2020\/08\/18",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00376448\/index.html",
+            "text": "新型コロナウィルス感染症に関する記者レクを開催しました（8月18日）"
         },
         {
             "date": "2020\/08\/17",
