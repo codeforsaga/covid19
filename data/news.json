@@ -1,6 +1,16 @@
 {
     "newsItems": [
         {
+            "date": "2020\/10\/10",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
+            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年10月9日17時30分現在）"
+        },
+        {
+            "date": "2020\/10\/08",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00377263\/index.html",
+            "text": "新型コロナウィルス感染症に関する記者レクを開催しました（10月8日）"
+        },
+        {
             "date": "2020\/10\/07",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
             "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年10月7日18時30分現在）"
