@@ -1,9 +1,24 @@
 {
     "newsItems": [
         {
-            "date": "2020\/11\/03",
+            "date": "2020\/11\/04",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年11月3日22時30分現在）"
+            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年11月4日18時30分現在）"
+        },
+        {
+            "date": "2020\/11\/04",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373208\/index.html",
+            "text": "新型コロナウイルス感染症に関する相談窓口・感染防止対策"
+        },
+        {
+            "date": "2020\/11\/04",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00377600\/index.html",
+            "text": "第43回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
+        },
+        {
+            "date": "2020\/11\/04",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00377607\/index.html",
+            "text": "新型コロナウィルス感染症に関する記者レクを開催しました（11月4日）"
         },
         {
             "date": "2020\/11\/03",
@@ -19,11 +34,6 @@
             "date": "2020\/11\/02",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373957\/index.html",
             "text": "新型コロナウイルス感染症に関する事業者支援等一覧を掲載しています"
-        },
-        {
-            "date": "2020\/11\/02",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373208\/index.html",
-            "text": "新型コロナウイルス感染症に関する相談窓口・感染防止対策"
         },
         {
             "date": "2020\/10\/29",
