@@ -1,9 +1,24 @@
 {
     "newsItems": [
         {
-            "date": "2020\/11\/04",
+            "date": "2020\/11\/08",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年11月4日18時30分現在）"
+            "text": "佐賀県の新型コロナウイルス感染症の状況（令和2年11月7日20時30分現在）"
+        },
+        {
+            "date": "2020\/11\/07",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00377655\/index.html",
+            "text": "新型コロナウィルス感染症に関する記者レクを開催しました（11月7日）"
+        },
+        {
+            "date": "2020\/11\/06",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374096\/index.html",
+            "text": "プロジェクトE（Education）～オンライン教育への挑戦～　スタート！"
+        },
+        {
+            "date": "2020\/11\/05",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00377608\/index.html",
+            "text": "新型コロナウィルス感染症に関する記者レクを開催しました（11月5日）"
         },
         {
             "date": "2020\/11\/04",
@@ -654,11 +669,6 @@
             "date": "2020\/06\/26",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374928\/3_74928_shiryou1_glc558bn.pdf",
             "text": "【6月26日更新】県民の皆様へ"
-        },
-        {
-            "date": "2020\/06\/26",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374096\/index.html",
-            "text": "プロジェクトE（Education）～オンライン教育への挑戦～　スタート！"
         },
         {
             "date": "2020\/06\/19",
