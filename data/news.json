@@ -1,14 +1,19 @@
 {
     "newsItems": [
         {
-            "date": "2021\/01\/06",
+            "date": "2021\/01\/07",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況（令和3年1月6日20時15分現在）"
+            "text": "佐賀県の新型コロナウイルス感染症の状況（令和3年1月7日21時00分現在）"
         },
         {
-            "date": "2021\/01\/06",
+            "date": "2021\/01\/07",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378346\/index.html",
             "text": "令和2年度ウィズコロナ対策支援事業費補助金について"
+        },
+        {
+            "date": "2021\/01\/07",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378550\/index.html",
+            "text": "新型コロナウィルス感染症に関する記者レクを開催しました（1月7日）"
         },
         {
             "date": "2021\/01\/06",
@@ -106,11 +111,6 @@
         },
         {
             "date": "2020\/12\/28",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378346\/index.html",
-            "text": "令和2年度ウィズコロナ対策支援事業費補助金について"
-        },
-        {
-            "date": "2020\/12\/28",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378469\/index.html",
             "text": "第51回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
         },
@@ -148,11 +148,6 @@
             "date": "2020\/12\/24",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373957\/index.html",
             "text": "新型コロナウイルス感染症に関する事業者支援等一覧を掲載しています"
-        },
-        {
-            "date": "2020\/12\/24",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378346\/index.html",
-            "text": "令和2年度ウィズコロナ対策支援事業費補助金について"
         },
         {
             "date": "2020\/12\/23",
