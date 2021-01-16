@@ -10322,7 +10322,7 @@
     "lastUpdate": "2021\/01\/16 19:00",
     "main_summary": {
         "attr": "検査実施人数",
-        "value": 18583
+        "value": 18583,
         "children": [
             {
                 "attr": "陽性患者数",
