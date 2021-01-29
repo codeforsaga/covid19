@@ -1,24 +1,34 @@
 {
     "newsItems": [
         {
-            "date": "2021\/01\/28",
+            "date": "2021\/01\/29",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況（令和3年1月28日19時00分現在）"
+            "text": "佐賀県の新型コロナウイルス感染症の状況（令和3年1月29日18時30分現在）"
         },
         {
-            "date": "2021\/01\/28",
+            "date": "2021\/01\/29",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378878\/index.html",
+            "text": "新型コロナウィルス感染症に関する記者レクを開催しました（1月29日）"
+        },
+        {
+            "date": "2021\/01\/29",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378346\/index.html",
-            "text": "令和2年度ウィズコロナ対策支援事業費補助金について"
+            "text": "（中小企業対象）令和2年度ウィズコロナ対策支援事業費補助金について"
+        },
+        {
+            "date": "2021\/01\/29",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373957\/index.html",
+            "text": "新型コロナウイルス感染症に関する事業者支援等一覧を掲載しています"
+        },
+        {
+            "date": "2021\/01\/29",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00334466\/index.html",
+            "text": "小児慢性特定疾病医療費助成制度"
         },
         {
             "date": "2021\/01\/28",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378869\/index.html",
             "text": "新型コロナウィルス感染症に関する記者レクを開催しました（1月28日）"
-        },
-        {
-            "date": "2021\/01\/27",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況（令和3年1月27日20時50分現在）"
         },
         {
             "date": "2021\/01\/27",
@@ -29,11 +39,6 @@
             "date": "2021\/01\/27",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378849\/index.html",
             "text": "新型コロナウィルス感染症に関する記者レクを開催しました（1月27日）"
-        },
-        {
-            "date": "2021\/01\/26",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373957\/index.html",
-            "text": "新型コロナウイルス感染症に関する事業者支援等一覧を掲載しています"
         },
         {
             "date": "2021\/01\/26",
@@ -448,11 +453,6 @@
             "date": "2020\/12\/17",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378338\/index.html",
             "text": "新型コロナウィルス感染症に関する記者レクを開催しました（12月17日）"
-        },
-        {
-            "date": "2020\/12\/16",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00334466\/index.html",
-            "text": "小児慢性特定疾病医療費助成制度"
         },
         {
             "date": "2020\/12\/16",
@@ -1236,11 +1236,6 @@
         },
         {
             "date": "2020\/07\/10",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373957\/index.html",
-            "text": "新型コロナウイルス感染症に関する事業者支援等一覧を掲載しています"
-        },
-        {
-            "date": "2020\/07\/10",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374928\/3_74928_shiryou1_gnlhmx32.pdf",
             "text": "【7月10日更新】県民の皆様へ"
         },
@@ -1263,11 +1258,6 @@
             "date": "2020\/07\/08",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00375547\/index.html",
             "text": "「新たなまちづくりチャレンジ支援事業」企画提案を募集します"
-        },
-        {
-            "date": "2020\/07\/08",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00334466\/index.html",
-            "text": "小児慢性特定疾病医療費助成制度"
         },
         {
             "date": "2020\/07\/07",
