@@ -1,9 +1,29 @@
 {
     "newsItems": [
         {
-            "date": "2021\/01\/31",
+            "date": "2021\/02\/01",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況（令和3年1月31日17時30分現在）"
+            "text": "佐賀県の新型コロナウイルス感染症の状況（令和3年2月1日18時15分現在）"
+        },
+        {
+            "date": "2021\/02\/01",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373362\/index.html",
+            "text": "佐賀県のテレワークに関する情報案内"
+        },
+        {
+            "date": "2021\/02\/01",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378751\/index.html",
+            "text": "【令和3年2月1日更新】佐賀県時短要請協力金について"
+        },
+        {
+            "date": "2021\/02\/01",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378881\/index.html",
+            "text": "第60回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
+        },
+        {
+            "date": "2021\/02\/01",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378916\/index.html",
+            "text": "新型コロナウィルス感染症に関する記者レクを開催しました（2月1日）"
         },
         {
             "date": "2021\/01\/31",
@@ -82,11 +102,6 @@
         },
         {
             "date": "2021\/01\/22",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378751\/index.html",
-            "text": "【令和3年1月22日更新】佐賀県時短要請協力金について"
-        },
-        {
-            "date": "2021\/01\/22",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378346\/index.html",
             "text": "令和2年度ウィズコロナ対策支援事業費補助金について"
         },
@@ -99,11 +114,6 @@
             "date": "2021\/01\/22",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378791\/index.html",
             "text": "新型コロナウィルス感染症に関する記者レクを開催しました（1月22日）"
-        },
-        {
-            "date": "2021\/01\/21",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378751\/index.html",
-            "text": "【令和3年1月21日更新】佐賀県時短要請協力金について"
         },
         {
             "date": "2021\/01\/21",
@@ -124,11 +134,6 @@
             "date": "2021\/01\/20",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378760\/index.html",
             "text": "新型コロナウィルス感染症に関する記者レクを開催しました（1月20日）"
-        },
-        {
-            "date": "2021\/01\/19",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378751\/index.html",
-            "text": "佐賀県時短要請協力金について"
         },
         {
             "date": "2021\/01\/19",
@@ -593,11 +598,6 @@
             "date": "2020\/11\/26",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378000\/3_78000_shiryou1_vuq2c3cd.pdf",
             "text": "新型コロナウイルス感染症対策全体像（PDF：473.6キロバイト）"
-        },
-        {
-            "date": "2020\/11\/26",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373362\/index.html",
-            "text": "佐賀県のテレワークに関する情報案内"
         },
         {
             "date": "2020\/11\/26",
@@ -1328,11 +1328,6 @@
             "date": "2020\/06\/19",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00375218\/index.html",
             "text": "第29回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
-        },
-        {
-            "date": "2020\/06\/18",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373362\/index.html",
-            "text": "佐賀県のテレワークに関する情報案内"
         },
         {
             "date": "2020\/06\/18",
