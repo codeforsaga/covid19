@@ -1,19 +1,39 @@
 {
     "newsItems": [
         {
-            "date": "2021\/05\/13",
+            "date": "2021\/05\/14",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380273\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症（令和3年5月）の状況（令和3年5月13日16時30分現在）"
+            "text": "佐賀県の新型コロナウイルス感染症（令和3年5月）の状況（令和3年5月14日16時30分現在）"
+        },
+        {
+            "date": "2021\/05\/14",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380433\/index.html",
+            "text": "新型コロナウイルス感染症に関する記者説明を開催しました（5月14日）"
+        },
+        {
+            "date": "2021\/05\/14",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380350\/index.html",
+            "text": "（5月14日更新）第2期 佐賀県時短要請協力金について"
+        },
+        {
+            "date": "2021\/05\/14",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373208\/index.html",
+            "text": "新型コロナウイルス感染症に関する相談窓口・感染防止対策"
+        },
+        {
+            "date": "2021\/05\/14",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380388\/index.html",
+            "text": "経営事項審査の本審査（対面審査）の対応について（新型コロナウイルス感染症対策）"
+        },
+        {
+            "date": "2021\/01\/14",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373950\/index.html",
+            "text": "建設業の許可申請等について(新型コロナウイルス感染症対策)"
         },
         {
             "date": "2021\/05\/13",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380417\/index.html",
             "text": "新型コロナウイルス感染症に関する記者説明を開催しました（5月13日）"
-        },
-        {
-            "date": "2021\/05\/13",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380350\/index.html",
-            "text": "（5月13日更新）第2期 佐賀県時短要請協力金について"
         },
         {
             "date": "2021\/05\/12",
@@ -89,11 +109,6 @@
             "date": "2021\/04\/19",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373318\/index.html",
             "text": "新型コロナウイルス感染症の発生により影響を受けた農林漁業者向けの制度資金のご案内"
-        },
-        {
-            "date": "2021\/04\/15",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373208\/index.html",
-            "text": "新型コロナウイルス感染症に関する相談窓口・感染防止対策"
         },
         {
             "date": "2021\/04\/01",
@@ -479,11 +494,6 @@
             "date": "2021\/01\/15",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00378671\/index.html",
             "text": "新型コロナウィルス感染症に関する記者レクを開催しました（1月15日）"
-        },
-        {
-            "date": "2021\/01\/14",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373950\/index.html",
-            "text": "建設業の許可申請等について(新型コロナウイルス感染症対策)"
         },
         {
             "date": "2021\/01\/14",
