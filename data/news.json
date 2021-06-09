@@ -1,9 +1,39 @@
 {
     "newsItems": [
         {
-            "date": "2021\/06\/07",
+            "date": "2021\/06\/09",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380273\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症（令和3年6月）の状況（令和3年6月7日16時30分現在）"
+            "text": "佐賀県の新型コロナウイルス感染症（令和3年6月）の状況（令和3年6月9日16時30分現在）"
+        },
+        {
+            "date": "2021\/06\/09",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380858\/index.html",
+            "text": "新型コロナウイルス感染症に関する記者説明を開催しました（6月9日）"
+        },
+        {
+            "date": "2021\/06\/08",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380843\/index.html",
+            "text": "第84回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
+        },
+        {
+            "date": "2021\/06\/08",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380799\/index.html",
+            "text": "新型コロナウイルスワクチン接種「佐賀県接種支援会場」の予約受付を開始します"
+        },
+        {
+            "date": "2021\/06\/08",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380826\/index.html",
+            "text": "令和3年度6月補正予算案に関する知事臨時記者会見を開催しました（6月8日）"
+        },
+        {
+            "date": "2021\/06\/08",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374876\/index.html",
+            "text": "令和3年6月8日更新】県民の皆様へのお願い"
+        },
+        {
+            "date": "2021\/06\/08",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00379899\/index.html",
+            "text": "新型コロナウイルスワクチン接種に関する情報"
         },
         {
             "date": "2021\/06\/07",
