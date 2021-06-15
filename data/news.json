@@ -1,9 +1,39 @@
 {
     "newsItems": [
         {
-            "date": "2021\/06\/09",
+            "date": "2021\/06\/15",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380273\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症（令和3年6月）の状況（令和3年6月9日16時30分現在）"
+            "text": "佐賀県の新型コロナウイルス感染症（令和3年6月）の状況（令和3年6月15日16時30分現在）"
+        },
+        {
+            "date": "2021\/06\/15",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380950\/index.html",
+            "text": "新型コロナウイルス感染症に関する記者説明を開催しました（6月15日）"
+        },
+        {
+            "date": "2021\/06\/15",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380948\/index.html",
+            "text": "第85回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
+        },
+        {
+            "date": "2021\/06\/14",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380933\/index.html",
+            "text": "新型コロナウイルス感染症に関する記者説明を開催しました（6月14日）"
+        },
+        {
+            "date": "2021\/06\/12",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380907\/index.html",
+            "text": "新型コロナウイルス感染症に関する記者説明を開催しました（6月12日）"
+        },
+        {
+            "date": "2021\/06\/11",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380902\/index.html",
+            "text": "新型コロナウイルス感染症に関する記者説明を開催しました（6月11日）"
+        },
+        {
+            "date": "2021\/06\/10",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380880\/index.html",
+            "text": "新型コロナウイルス感染症に関する記者説明を開催しました（6月10日）"
         },
         {
             "date": "2021\/06\/09",
