@@ -1,9 +1,49 @@
 {
     "newsItems": [
         {
-            "date": "2021\/07\/10",
+            "date": "2021\/07\/16",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380273\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症（令和3年7月）の状況（令和3年7月10日16時30分現在）"
+            "text": "佐賀県の新型コロナウイルス感染症（令和3年7月）の状況（令和3年7月16日16時30分現在）"
+        },
+        {
+            "date": "2021\/07\/16",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00381501\/index.html",
+            "text": "新型コロナウイルス感染症に関する記者説明を開催しました（7月16日）"
+        },
+        {
+            "date": "2021\/07\/15",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00381459\/index.html",
+            "text": "新型コロナウイルス感染症に関する記者説明を開催しました（7月15日）"
+        },
+        {
+            "date": "2021\/07\/15",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00381458\/index.html",
+            "text": "第89回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
+        },
+        {
+            "date": "2021\/07\/15",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374876\/index.html",
+            "text": "【令和3年7月15日更新】県民の皆様へのお願い"
+        },
+        {
+            "date": "2021\/07\/14",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00381441\/index.html",
+            "text": "新型コロナウイルス感染症に関する記者説明を開催しました（7月14日）"
+        },
+        {
+            "date": "2021\/07\/14",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00379899\/index.html",
+            "text": "新型コロナウイルスワクチン接種に関する情報"
+        },
+        {
+            "date": "2021\/07\/13",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00381424\/index.html",
+            "text": "新型コロナウイルス感染症に関する記者説明を開催しました（7月13日）"
+        },
+        {
+            "date": "2021\/07\/12",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380350\/index.html",
+            "text": "※申請受付を終了しました　佐賀県時短要請協力金について"
         },
         {
             "date": "2021\/07\/10",
@@ -24,11 +64,6 @@
             "date": "2021\/07\/10",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380778\/index.html",
             "text": "※申請受付を終了しました　第3期分と第4期分の時短要請協力金を一括申請する書類について"
-        },
-        {
-            "date": "2021\/07\/10",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00380350\/index.html",
-            "text": "※申請受付を終了しました　佐賀県時短要請協力金について"
         },
         {
             "date": "2021\/07\/09",
